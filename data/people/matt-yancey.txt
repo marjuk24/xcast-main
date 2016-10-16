@@ -1,2 +1,3 @@
 name: Matt Yancey
 home: http://livingwithdata.com/
+country:Eureka, MO, United States
