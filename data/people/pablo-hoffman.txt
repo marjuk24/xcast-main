@@ -1,3 +1,4 @@
 name: Pablo Hoffman
 twitter: PabloHoffman
 home: http://pablohoffman.com/
+country: Montevideo, Uruguay 
