@@ -2,3 +2,4 @@ name: John Nunemaker
 twitter: jnunemaker
 github: jnunemaker
 home: http://johnnunemaker.com
+country: South Bend, IN, United States
