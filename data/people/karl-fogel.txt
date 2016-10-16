@@ -2,3 +2,4 @@ name: Karl Fogel
 twitter: kfogel
 github: kfogel
 home: http://www.red-bean.com/kfogel/
+country:Mexico
