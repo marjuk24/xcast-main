@@ -2,3 +2,4 @@ name: A. Jesse Jiryu Davis
 twitter: jessejiryudavis
 gihub: ajdavis
 home: https://emptysqua.re/
+country: America
