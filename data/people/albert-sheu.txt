@@ -2,3 +2,4 @@ name: Albert Sheu
 twitter: 146
 github: flubstep
 home: http://flubstep.com
+country: United States
