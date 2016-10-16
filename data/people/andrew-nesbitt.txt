@@ -2,3 +2,4 @@ name: Andrew Nesbitt
 twitter: teabass
 github: andrew
 home: http://nesbitt.io/
+country: United Kingdom
