@@ -2,3 +2,4 @@ name: Mohammad S Anwar
 twitter: cpan_author
 github: Manwar
 home: http://www.manwar.org/
+country: London, United Kingdom
