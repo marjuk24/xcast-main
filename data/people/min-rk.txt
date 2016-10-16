@@ -1,2 +1,3 @@
 name: Min RK
 twitter: minrk
+country: Oslo, Norway
