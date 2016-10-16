@@ -1,2 +1,3 @@
 name: Matthias Bussonnier
 twitter: mbussonn
+country: Berkeley, CA, USA
