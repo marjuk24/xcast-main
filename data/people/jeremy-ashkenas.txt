@@ -2,3 +2,4 @@ name: Jeremy Ashkenas
 twitter: jashkenas
 github: jashkenas
 home: http://ashkenas.com
+country: NYC, NY, United States
