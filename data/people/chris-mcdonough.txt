@@ -2,3 +2,4 @@ name: Chris McDonough
 twitter: chrismcdonough
 github: mcdonc
 home: http://plope.com/
+country: Fredericksburg VA USA  
