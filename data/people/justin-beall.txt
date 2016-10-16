@@ -1,3 +1,4 @@
 name: Justin Beall
 twitter: BeallBros
 home: http://beallbros.com/
+country: Ohio, United States
