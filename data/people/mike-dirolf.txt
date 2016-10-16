@@ -2,3 +2,4 @@ name: Mike Dirolf
 twitter: mdirolf
 github: mdirolf
 home: http://dirolf.com/
+country: Albany, OR, United States
