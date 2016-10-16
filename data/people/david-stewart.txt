@@ -1,3 +1,4 @@
 name: David Stewart
 twitter: davest
 home: http://evangelists.intel.com/bio/David_Stewart
+country:Beaverton, OR, USA 
