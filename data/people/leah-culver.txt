@@ -1,3 +1,4 @@
 name: Leah Cluver
 twitter: leahculver
 home: http://leahculver.com/
+country: California, United States
