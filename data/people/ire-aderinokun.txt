@@ -2,3 +2,4 @@ name: Ire Aderinokun
 twitter: ireaderinokun
 github: ireade
 home: http://ireaderinokun.com/
+country: Lagos, Nigeria 
