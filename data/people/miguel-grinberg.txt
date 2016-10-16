@@ -1,3 +1,4 @@
 name: Miguel Grinberg
 twitter: miguelgrinberg
 home: http://blog.miguelgrinberg.com/
+country: Portland, OR, United States
