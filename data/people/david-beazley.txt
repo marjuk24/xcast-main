@@ -1,2 +1,3 @@
 name: David Beazley
 home: http://dabeaz.com
+country:Chicago, IL, USA
