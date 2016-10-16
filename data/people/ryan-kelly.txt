@@ -2,3 +2,4 @@ name: Ryan Kelly
 github: rfk
 twitter: rfkelly
 home: http://www.rfk.id.au/
+country:  Inverloch, Victoria, Australia 
