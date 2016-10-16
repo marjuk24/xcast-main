@@ -1,2 +1,3 @@
 name: Greg Langston
 twitter: gregstl
+country: St. Louis, MO, United States
