@@ -17,6 +17,8 @@ So if the person is called "Foo Bar Qux" then the file name will be ```foo-bar-q
 ```
 hosts:     A list of the hosts. Just like the list of the guest.
 keywords:  A list of words (e.g. project names) that are important in the episode.
+           These should be the names of the project, (e.g. Dancer) or words describing the field such as
+           "web", "desktop", "gui", "DevOps".
 permalink: The URL of the episode.
 title:     The title of the episode.
 date:      The date of the episode.
@@ -57,7 +59,8 @@ country:   Country name
 ```
 
 The ```data/tags.csv``` file contains a mapping of keywords to URLs and descriptions.
-It is still under 'design'. Don't bother with it for now.
+This is mostly relevant for keywords that describe a spefic project (e.g. Dancer)
+but not for generic keywords such as "web".
 
 ```
 keyword;http://...
