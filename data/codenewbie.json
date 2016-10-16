@@ -144,6 +144,97 @@
     "date": "2014-11-23"
   },
   {
+    "ep" : "12",
+    "guests": {
+      "tina-lee" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": ["Mother"],
+    "permalink": "http://www.codenewbie.org/podcast/mother-coders",
+    "title" : "Mother Coders",
+    "date": "2014-11-30"
+  },
+  {
+    "ep" : "13",
+    "guests": {
+      "lauren-orsini" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": ["Programmer"],
+    "permalink": "http://www.codenewbie.org/podcast/the-not-so-amateur-programmer",
+    "title" : "The Not-So-Amateur Programmer",
+    "date": "2014-12-07"
+  },
+  {
+    "ep" : "14",
+    "guests": {
+      "noel-rappin" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": ["Test"],
+    "permalink": "http://www.codenewbie.org/podcast/on-testing",
+    "title" : "On Testing",
+    "date": "2014-12-14"
+  },
+  {
+    "ep" : "15",
+    "guests": {
+      "christopher-webber" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": ["Devops"],
+    "permalink": "http://www.codenewbie.org/podcast/intro-to-devops",
+    "title" : "Intro to DevOps",
+    "date": "2014-12-21"
+  },
+  {
+    "ep" : "16",
+    "guests": {
+      "jenn-schiffer" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": ["Code"],
+    "permalink": "http://www.codenewbie.org/podcast/code-ghost",
+    "title" : "Code Ghost",
+    "date": "2014-12-28"
+  },
+  {
+    "ep" : "17",
+    "guests": {
+      "scott-hanselman" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": ["Content"],
+    "permalink": "http://www.codenewbie.org/podcast/getting-involved",
+    "title" : "Getting Involved",
+    "date": "2015-01-04"
+  },
+  {
+    "ep" : "18",
+    "guests": {
+      "vanessa-hurst" : {}
+    },
+    "hosts" : {
+        "saron-yitbarek" : {}
+    },
+    "keywords": ["Job"],
+    "permalink": "http://www.codenewbie.org/podcast/autotune-inclusivity-and-getting-a-job",
+    "title" : "Autotune, Inclusivity, and Getting A Job",
+    "date": "2015-01-12"
+  },
+  {
     "ep" : "57",
     "guests": {
       "adam-stacoviak" : {},
