@@ -1,4 +1,5 @@
 name: Andy Gross
 twitter: argv0
 github: argv0
-home:
+home:blog.andygross.org 
+country:United States
