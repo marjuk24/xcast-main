@@ -1,3 +1,4 @@
 name: Patrick Chanezon
 github: chanezon
 home: https://blog.docker.com/2015/03/chanezon-dockerized/
+country: San Francisco, CA, USA
