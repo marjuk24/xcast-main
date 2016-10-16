@@ -2,3 +2,4 @@ name: Johnny Ray Austin
 twitter: recursivefunk
 github: recursivefunk
 home: https://johnnyray.me/
+country: Washington, DC, United States
