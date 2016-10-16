@@ -2,3 +2,4 @@ name: Mahmoud Hashemi
 github: mahmoud
 twitter: mhashemi
 home: http://sedimental.org/
+country: United States
