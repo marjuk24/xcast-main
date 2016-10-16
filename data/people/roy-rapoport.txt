@@ -1,4 +1,4 @@
 name: Roy Rapoport
 twitter: royrapoport
 github: royrapoport
-country: 
+country: Los Gatos, CA, United States
