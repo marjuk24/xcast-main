@@ -2,3 +2,4 @@ name: Ben Orenstein
 twitter: r00k
 github: r00k
 home: http://www.benorenstein.com/
+country: CA
