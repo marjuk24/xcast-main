@@ -39,3 +39,10 @@
     }
 }
 
+.ep {
+    background-color: #DDD;
+    width: 30px;
+    display: inline-block;
+    text-align: right;
+}
+
