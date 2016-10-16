@@ -1,3 +1,4 @@
 name: Eric Chou
 twitter: ericchou
 home: http://blog.pythonicneteng.com/
+country: Sammamish, WA, United States
