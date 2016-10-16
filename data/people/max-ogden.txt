@@ -2,3 +2,4 @@ name: Max Ogden
 twitter: denormalize
 github: maxogden
 home: http://maxogden.com/
+country: Portland, OR, USA
