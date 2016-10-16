@@ -1,2 +1,3 @@
 name: Kristinn Sigurbergsson
 twitter: CCP_Tuxford
+country:Canada
