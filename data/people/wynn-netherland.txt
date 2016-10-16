@@ -2,3 +2,4 @@ name: Wynn Netherland
 github: pengwynn
 twitter: pengwynn
 home: http://wynnnetherland.com/
+country: Denton, TX, USA
