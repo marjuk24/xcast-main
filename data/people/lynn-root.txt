@@ -2,3 +2,4 @@ name: Lynn Root
 github: econchick
 twitter: roguelynn
 home: http://www.roguelynn.com/
+country: New York, NY, USA
